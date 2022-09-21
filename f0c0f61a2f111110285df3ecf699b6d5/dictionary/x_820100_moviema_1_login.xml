@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element label="Login" max_length="40" name="x_820100_moviema_1_login" sizeclass="6" type="collection">
-        <element label="Password" max_length="40" name="password" type="string"/>
+        <element label="Password" mandatory="true" max_length="40" name="password" type="string"/>
         <element label="UserId" max_length="40" name="userid" type="string"/>
-        <element label="UserNumber" max_length="32" name="usernumber" reference="x_820100_moviema_1_create_acc" type="reference"/>
+        <element dependent="usernumber" dependent_on_field="usernumber" label="UserName" max_length="32" name="usernumber" reference="x_820100_moviema_1_create_acc" type="reference" use_dependent_field="true"/>
+        <element attributes="edge_encryption_enabled=true" label="Email Address" mandatory="true" max_length="40" name="u_string_1" type="string"/>
         <index name="index">
             <element name="usernumber"/>
         </index>

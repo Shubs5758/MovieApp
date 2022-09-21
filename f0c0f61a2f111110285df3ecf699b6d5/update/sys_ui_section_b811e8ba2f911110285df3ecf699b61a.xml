@@ -1,58 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
     <sys_ui_section caption="" section_id="b811e8ba2f911110285df3ecf699b61a" sys_domain="global" table="x_820100_moviema_1_login" version="3" view="">
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>usernumber</element>
+            <element>u_string_1</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-08-23 06:07:27</sys_created_on>
-            <sys_id>631c16242fad1110285df3ecf699b6dd</sys_id>
+            <sys_created_on>2022-09-21 05:46:59</sys_created_on>
+            <sys_id>128daf792f021110285df3ecf699b68a</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_820100_moviema_1_login" sys_domain="global" view="Default view">b811e8ba2f911110285df3ecf699b61a</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-08-23 06:07:27</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>userid</element>
-            <position>1</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-08-23 06:07:27</sys_created_on>
-            <sys_id>e31c16242fad1110285df3ecf699b6dd</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_820100_moviema_1_login" sys_domain="global" view="Default view">b811e8ba2f911110285df3ecf699b61a</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-08-23 06:07:27</sys_updated_on>
+            <sys_updated_on>2022-09-21 05:46:59</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.split</element>
-            <position>2</position>
+            <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-08-23 06:07:27</sys_created_on>
-            <sys_id>671c16242fad1110285df3ecf699b6dd</sys_id>
+            <sys_created_on>2022-09-21 05:46:59</sys_created_on>
+            <sys_id>168daf792f021110285df3ecf699b68a</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_820100_moviema_1_login" sys_domain="global" view="Default view">b811e8ba2f911110285df3ecf699b61a</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-08-23 06:07:27</sys_updated_on>
+            <sys_updated_on>2022-09-21 05:46:59</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>password</element>
-            <position>3</position>
+            <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-08-23 06:07:27</sys_created_on>
-            <sys_id>e71c16242fad1110285df3ecf699b6dd</sys_id>
+            <sys_created_on>2022-09-21 05:46:59</sys_created_on>
+            <sys_id>1a8daf792f021110285df3ecf699b68a</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_820100_moviema_1_login" sys_domain="global" view="Default view">b811e8ba2f911110285df3ecf699b61a</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-08-23 06:07:27</sys_updated_on>
+            <sys_updated_on>2022-09-21 05:46:59</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

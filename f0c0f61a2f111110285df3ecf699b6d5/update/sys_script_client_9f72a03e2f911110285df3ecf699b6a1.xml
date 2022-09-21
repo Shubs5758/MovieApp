@@ -12,7 +12,7 @@
         <order/>
         <script><![CDATA[function onSubmit() {
    //Type appropriate comment here, and begin script below
-   g_navigation.openPopup('https://dev89029.service-now.com/$spd.do#/pm/preview/desktop/ticketbooking')
+   g_navigation.openPopup('https://dev89029.service-now.com/$spd.do#/ma/preview/desktop/ticketbooking')
 }]]></script>
         <sys_class_name>sys_script_client</sys_class_name>
         <sys_created_by>admin</sys_created_by>
@@ -20,7 +20,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>9f72a03e2f911110285df3ecf699b6a1</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_name>Login</sys_name>
         <sys_overrides/>
         <sys_package display_value="MovieManagement" source="x_820100_moviema_1">f0c0f61a2f111110285df3ecf699b6d5</sys_package>
@@ -28,7 +28,7 @@
         <sys_scope display_value="MovieManagement">f0c0f61a2f111110285df3ecf699b6d5</sys_scope>
         <sys_update_name>sys_script_client_9f72a03e2f911110285df3ecf699b6a1</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-09-19 08:34:00</sys_updated_on>
+        <sys_updated_on>2022-09-21 05:33:46</sys_updated_on>
         <table>x_820100_moviema_1_login</table>
         <type>onSubmit</type>
         <ui_type>0</ui_type>
