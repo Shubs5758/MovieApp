@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_client_script">
+    <sys_ux_client_script action="INSERT_OR_UPDATE">
+        <includes/>
+        <macroponent display_value="Search Page">4d9a3ed2c8511110d0709c883c6764ba</macroponent>
+        <name>set_loading</name>
+        <required_translations>[ ]</required_translations>
+        <script><![CDATA[function handler({api, event, imports}) {
+	// Called on successful retrieval of search data
+    api.setState('loading', false);
+}]]></script>
+        <script_api_version>2.0.0</script_api_version>
+        <sys_class_name>sys_ux_client_script</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-08-16 08:34:16</sys_created_on>
+        <sys_id>059a3ed24d5111109982a83e4166eeba</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>set_loading</sys_name>
+        <sys_package display_value="MovieManagement" source="x_820100_moviema_1">f0c0f61a2f111110285df3ecf699b6d5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MovieManagement">f0c0f61a2f111110285df3ecf699b6d5</sys_scope>
+        <sys_update_name>sys_ux_client_script_059a3ed24d5111109982a83e4166eeba</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2022-08-16 08:34:16</sys_updated_on>
+        <type/>
+    </sys_ux_client_script>
+</record_update>

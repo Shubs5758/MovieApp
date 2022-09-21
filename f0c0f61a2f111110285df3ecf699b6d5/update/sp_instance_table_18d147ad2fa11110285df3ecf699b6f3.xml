@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance_table">
+    <sp_instance_table action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <class_name/>
+        <color>success</color>
+        <css/>
+        <display_field/>
+        <field_list/>
+        <filter/>
+        <glyph/>
+        <id/>
+        <maximum_entries>5</maximum_entries>
+        <order>1</order>
+        <order_by/>
+        <order_direction>asc</order_direction>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">10c1cfad2fa11110285df3ecf699b6b3</sp_column>
+        <sp_page/>
+        <sp_widget display_value="Data Table from Instance Definition">38058ff1cb11020000f8d856634c9c8c</sp_widget>
+        <sys_class_name>sp_instance_table</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-26 11:26:06</sys_created_on>
+        <sys_id>18d147ad2fa11110285df3ecf699b6f3</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Booked Ticket</sys_name>
+        <sys_package display_value="MovieManagement" source="x_820100_moviema_1">f0c0f61a2f111110285df3ecf699b6d5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MovieManagement">f0c0f61a2f111110285df3ecf699b6d5</sys_scope>
+        <sys_update_name>sp_instance_table_18d147ad2fa11110285df3ecf699b6f3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-26 11:26:43</sys_updated_on>
+        <table>x_820100_moviema_1_moviebooking</table>
+        <title>Booked Ticket</title>
+        <url/>
+        <widget_parameters/>
+    </sp_instance_table>
+    <sys_translated_text action="delete_multiple" query="documentkey=18d147ad2fa11110285df3ecf699b6f3"/>
+</record_update>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance">
+    <sp_instance action="DELETE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <order>1</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">bca850892fa11110285df3ecf699b696</sp_column>
+        <sp_widget display_value="KB View">e7ef8eb847101200ba13a5554ee49010</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-24 10:02:49</sys_created_on>
+        <sys_id>8d9b904d2fa11110285df3ecf699b633</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="MovieManagement" source="x_820100_moviema_1">f0c0f61a2f111110285df3ecf699b6d5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MovieManagement">f0c0f61a2f111110285df3ecf699b6d5</sys_scope>
+        <sys_update_name>sp_instance_8d9b904d2fa11110285df3ecf699b633</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-24 10:02:49</sys_updated_on>
+        <title/>
+        <url/>
+        <widget_parameters/>
+    </sp_instance>
+    <sys_translated_text action="DELETE" query="documentkey=8d9b904d2fa11110285df3ecf699b633"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="MovieManagement">f0c0f61a2f111110285df3ecf699b6d5</application>
+        <file_path/>
+        <instance_id>1e3a0a7edbf23bc0b847ac44d49619ad</instance_id>
+        <instance_name>dev89029</instance_name>
+        <name>sp_instance_8d9b904d2fa11110285df3ecf699b633</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance"><sp_instance action="INSERT_OR_UPDATE"><active>true</active><class_name/><color>default</color><css/><glyph/><id/><order>1</order><roles/><short_description/><size>md</size><sp_column display_value="1">bca850892fa11110285df3ecf699b696</sp_column><sp_widget display_value="KB View">e7ef8eb847101200ba13a5554ee49010</sp_widget><sys_class_name>sp_instance</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-08-24 10:02:49</sys_created_on><sys_id>8d9b904d2fa11110285df3ecf699b633</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="MovieManagement" source="x_820100_moviema_1">f0c0f61a2f111110285df3ecf699b6d5</sys_package><sys_policy/><sys_scope display_value="MovieManagement">f0c0f61a2f111110285df3ecf699b6d5</sys_scope><sys_update_name>sp_instance_8d9b904d2fa11110285df3ecf699b633</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-08-24 10:02:49</sys_updated_on><title/><url/><widget_parameters/></sp_instance><sys_translated_text action="delete_multiple" query="documentkey=8d9b904d2fa11110285df3ecf699b633"/></record_update>]]></payload>
+        <payload_hash>688023937</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>7cc0f61a2f111110285df3ecf699b6d6</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-24 10:02:49</sys_created_on>
+        <sys_id>4d9b904d2fa11110285df3ecf699b635</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>182cf4df5dd0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-24 10:02:49</sys_updated_on>
+        <type>Instance</type>
+        <update_guid>859b904dd8a11110a08097162560e735</update_guid>
+        <update_guid_history>859b904dd8a11110a08097162560e735:688023937</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">269b9c0d2fa11110285df3ecf699b6c0</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-24 10:02:55</sys_created_on>
+        <sys_db_object display_value="" name="sp_instance">sp_instance</sys_db_object>
+        <sys_id>3ba4cabf2f7a4c18acb700684a933804</sys_id>
+        <sys_metadata>8d9b904d2fa11110285df3ecf699b633</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="MovieManagement" source="x_820100_moviema_1">f0c0f61a2f111110285df3ecf699b6d5</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="MovieManagement">f0c0f61a2f111110285df3ecf699b6d5</sys_scope>
+        <sys_scope_delete display_value="">2c85fbd85ab84b64ab4a560f62daeca9</sys_scope_delete>
+        <sys_update_name>sp_instance_8d9b904d2fa11110285df3ecf699b633</sys_update_name>
+        <sys_update_version display_value="sp_instance_8d9b904d2fa11110285df3ecf699b633">4d9b904d2fa11110285df3ecf699b635</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-24 10:02:55</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

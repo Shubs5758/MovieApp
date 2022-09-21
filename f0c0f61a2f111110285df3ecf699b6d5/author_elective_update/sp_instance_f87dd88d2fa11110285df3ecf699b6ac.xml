@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance">
+    <sp_instance action="DELETE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <order>1</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">40a854892fa11110285df3ecf699b621</sp_column>
+        <sp_widget display_value="SC Catalog Item">3c29786e87133200e0ef0cf888cb0bdf</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-24 10:10:59</sys_created_on>
+        <sys_id>f87dd88d2fa11110285df3ecf699b6ac</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="MovieManagement" source="x_820100_moviema_1">f0c0f61a2f111110285df3ecf699b6d5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MovieManagement">f0c0f61a2f111110285df3ecf699b6d5</sys_scope>
+        <sys_update_name>sp_instance_f87dd88d2fa11110285df3ecf699b6ac</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-24 10:10:59</sys_updated_on>
+        <title/>
+        <url/>
+        <widget_parameters/>
+    </sp_instance>
+    <sys_translated_text action="DELETE" query="documentkey=f87dd88d2fa11110285df3ecf699b6ac"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="MovieManagement">f0c0f61a2f111110285df3ecf699b6d5</application>
+        <file_path/>
+        <instance_id>1e3a0a7edbf23bc0b847ac44d49619ad</instance_id>
+        <instance_name>dev89029</instance_name>
+        <name>sp_instance_f87dd88d2fa11110285df3ecf699b6ac</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance"><sp_instance action="INSERT_OR_UPDATE"><active>true</active><class_name/><color>default</color><css/><glyph/><id/><order>1</order><roles/><short_description/><size>md</size><sp_column display_value="1">40a854892fa11110285df3ecf699b621</sp_column><sp_widget display_value="SC Catalog Item">3c29786e87133200e0ef0cf888cb0bdf</sp_widget><sys_class_name>sp_instance</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-08-24 10:10:59</sys_created_on><sys_id>f87dd88d2fa11110285df3ecf699b6ac</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="MovieManagement" source="x_820100_moviema_1">f0c0f61a2f111110285df3ecf699b6d5</sys_package><sys_policy/><sys_scope display_value="MovieManagement">f0c0f61a2f111110285df3ecf699b6d5</sys_scope><sys_update_name>sp_instance_f87dd88d2fa11110285df3ecf699b6ac</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-08-24 10:10:59</sys_updated_on><title/><url/><widget_parameters/></sp_instance><sys_translated_text action="delete_multiple" query="documentkey=f87dd88d2fa11110285df3ecf699b6ac"/></record_update>]]></payload>
+        <payload_hash>-1525531713</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>7cc0f61a2f111110285df3ecf699b6d6</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-24 10:10:59</sys_created_on>
+        <sys_id>b87dd88d2fa11110285df3ecf699b6ae</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>182cf5573180000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-24 10:10:59</sys_updated_on>
+        <type>Instance</type>
+        <update_guid>f07dd88d48a1111057f3a501e66d8cae</update_guid>
+        <update_guid_history>f07dd88d48a1111057f3a501e66d8cae:-1525531713</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">8f8d10cd2fa11110285df3ecf699b62e</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-24 10:11:25</sys_created_on>
+        <sys_db_object display_value="" name="sp_instance">sp_instance</sys_db_object>
+        <sys_id>0cc17b7215794f2b991f6c96e2455cb9</sys_id>
+        <sys_metadata>f87dd88d2fa11110285df3ecf699b6ac</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="MovieManagement" source="x_820100_moviema_1">f0c0f61a2f111110285df3ecf699b6d5</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="MovieManagement">f0c0f61a2f111110285df3ecf699b6d5</sys_scope>
+        <sys_scope_delete display_value="">2c85fbd85ab84b64ab4a560f62daeca9</sys_scope_delete>
+        <sys_update_name>sp_instance_f87dd88d2fa11110285df3ecf699b6ac</sys_update_name>
+        <sys_update_version display_value="sp_instance_f87dd88d2fa11110285df3ecf699b6ac">b87dd88d2fa11110285df3ecf699b6ae</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-24 10:11:25</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

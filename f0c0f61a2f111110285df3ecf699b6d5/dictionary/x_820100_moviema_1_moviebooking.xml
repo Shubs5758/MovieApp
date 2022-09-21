@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="MovieBooking" max_length="40" name="x_820100_moviema_1_moviebooking" sizeclass="2" type="collection">
+        <element label="Date" max_length="40" name="date" type="glide_date"/>
+        <element label="Email address" max_length="40" name="email_address" type="string"/>
+        <element display="true" label="First Name" max_length="40" name="first_name" type="string"/>
+        <element label="Last Name" max_length="40" name="last_name" type="string"/>
+        <element label="Location" max_length="40" name="location" type="string"/>
+        <element label="Movie Name" max_length="40" name="movie_name" type="string"/>
+        <element label="Price" max_length="38" name="price" type="currency"/>
+        <element choice="3" label="Seat type" max_length="40" name="seat_type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="General" sequence="0" value="1"/>
+                <element inactive_on_update="false" label="Gold" sequence="1" value="2"/>
+                <element inactive_on_update="false" label="Premium" sequence="2" value="3"/>
+            </choice>
+        </element>
+        <element choice="1" label="Show timings" max_length="40" name="show_timings" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="9:30" sequence="0" value="1"/>
+                <element inactive_on_update="false" label="12:30" sequence="1" value="2"/>
+                <element inactive_on_update="false" label="3:30" sequence="2" value="3"/>
+                <element inactive_on_update="false" label="6:30" sequence="3" value="4"/>
+                <element inactive_on_update="false" label="9:30" sequence="4" value="5"/>
+            </choice>
+        </element>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <index name="index">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>

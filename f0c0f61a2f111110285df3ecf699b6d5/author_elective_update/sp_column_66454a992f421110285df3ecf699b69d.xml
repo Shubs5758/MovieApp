@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_column">
+    <sp_column action="DELETE">
+        <class_name/>
+        <order>1</order>
+        <size>12</size>
+        <size_lg/>
+        <size_sm/>
+        <size_xs/>
+        <sp_row display_value="1">6e454a992f421110285df3ecf699b69a</sp_row>
+        <sys_class_name>sp_column</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-19 08:54:34</sys_created_on>
+        <sys_id>66454a992f421110285df3ecf699b69d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>1</sys_name>
+        <sys_package display_value="MovieManagement" source="x_820100_moviema_1">f0c0f61a2f111110285df3ecf699b6d5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MovieManagement">f0c0f61a2f111110285df3ecf699b6d5</sys_scope>
+        <sys_update_name>sp_column_66454a992f421110285df3ecf699b69d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-19 08:54:34</sys_updated_on>
+    </sp_column>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="MovieManagement">f0c0f61a2f111110285df3ecf699b6d5</application>
+        <file_path/>
+        <instance_id>1e3a0a7edbf23bc0b847ac44d49619ad</instance_id>
+        <instance_name>dev89029</instance_name>
+        <name>sp_column_66454a992f421110285df3ecf699b69d</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_column"><sp_column action="INSERT_OR_UPDATE"><class_name/><order>1</order><size>12</size><size_lg/><size_sm/><size_xs/><sp_row display_value="1">6e454a992f421110285df3ecf699b69a</sp_row><sys_class_name>sp_column</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-09-19 08:54:34</sys_created_on><sys_id>66454a992f421110285df3ecf699b69d</sys_id><sys_mod_count>0</sys_mod_count><sys_name>1</sys_name><sys_package display_value="MovieManagement" source="x_820100_moviema_1">f0c0f61a2f111110285df3ecf699b6d5</sys_package><sys_policy/><sys_scope display_value="MovieManagement">f0c0f61a2f111110285df3ecf699b6d5</sys_scope><sys_update_name>sp_column_66454a992f421110285df3ecf699b69d</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-09-19 08:54:34</sys_updated_on></sp_column></record_update>]]></payload>
+        <payload_hash>2057257257</payload_hash>
+        <record_name>1</record_name>
+        <reverted_from/>
+        <source>7cc0f61a2f111110285df3ecf699b6d6</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-19 08:54:34</sys_created_on>
+        <sys_id>a6454a992f421110285df3ecf699b69f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18354f4d3720000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-19 08:54:34</sys_updated_on>
+        <type>Column</type>
+        <update_guid>ee454a99aa4211102d4661f122da909e</update_guid>
+        <update_guid_history>ee454a99aa4211102d4661f122da909e:2057257257</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="1">c5f8ce5d2f421110285df3ecf699b6e1</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-19 09:10:34</sys_created_on>
+        <sys_db_object display_value="" name="sp_column">sp_column</sys_db_object>
+        <sys_id>06064fbb307e457885488094d114f040</sys_id>
+        <sys_metadata>66454a992f421110285df3ecf699b69d</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>1</sys_name>
+        <sys_package display_value="MovieManagement" source="x_820100_moviema_1">f0c0f61a2f111110285df3ecf699b6d5</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="MovieManagement">f0c0f61a2f111110285df3ecf699b6d5</sys_scope>
+        <sys_scope_delete display_value="">2c85fbd85ab84b64ab4a560f62daeca9</sys_scope_delete>
+        <sys_update_name>sp_column_66454a992f421110285df3ecf699b69d</sys_update_name>
+        <sys_update_version display_value="sp_column_66454a992f421110285df3ecf699b69d">a6454a992f421110285df3ecf699b69f</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-19 09:10:34</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

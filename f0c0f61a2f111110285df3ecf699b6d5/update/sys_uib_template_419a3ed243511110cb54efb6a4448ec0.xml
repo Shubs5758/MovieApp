@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_uib_template">
+    <sys_uib_template action="INSERT_OR_UPDATE">
+        <associated_types>f198e5625311101017caddeeff7b120d,d5d732935301101017caddeeff7b12b3</associated_types>
+        <image display_value="ui-builder-templates-right-sidebar.svg">89ff424877311010d99bbc3f6810614e</image>
+        <label>Portal Main Content with Right Rail</label>
+        <macroponent display_value="Fixed Width Two-One">0d9a3ed28a511110e3ba4a032d12d7bf</macroponent>
+        <order>0</order>
+        <sys_class_name>sys_uib_template</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-08-16 08:34:15</sys_created_on>
+        <sys_id>419a3ed243511110cb54efb6a4448ec0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Portal Main Content with Right Rail</sys_name>
+        <sys_package display_value="MovieManagement" source="x_820100_moviema_1">f0c0f61a2f111110285df3ecf699b6d5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MovieManagement">f0c0f61a2f111110285df3ecf699b6d5</sys_scope>
+        <sys_update_name>sys_uib_template_419a3ed243511110cb54efb6a4448ec0</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2022-08-16 08:34:15</sys_updated_on>
+    </sys_uib_template>
+</record_update>

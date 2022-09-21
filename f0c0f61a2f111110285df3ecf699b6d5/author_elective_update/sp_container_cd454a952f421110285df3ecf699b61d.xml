@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_container">
+    <sp_container action="DELETE">
+        <background_color/>
+        <background_image/>
+        <background_style>default</background_style>
+        <bootstrap_alt>false</bootstrap_alt>
+        <class_name/>
+        <container_class_name/>
+        <name>Admin After Login - Container 2</name>
+        <order>2</order>
+        <sp_page display_value="admin_after_login">73f4c6952f421110285df3ecf699b6fd</sp_page>
+        <subheader>false</subheader>
+        <sys_class_name>sp_container</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-19 08:54:27</sys_created_on>
+        <sys_id>cd454a952f421110285df3ecf699b61d</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Admin After Login - Container 2</sys_name>
+        <sys_package display_value="MovieManagement" source="x_820100_moviema_1">f0c0f61a2f111110285df3ecf699b6d5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MovieManagement">f0c0f61a2f111110285df3ecf699b6d5</sys_scope>
+        <sys_update_name>sp_container_cd454a952f421110285df3ecf699b61d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-19 08:54:54</sys_updated_on>
+        <title/>
+        <width>container</width>
+    </sp_container>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="MovieManagement">f0c0f61a2f111110285df3ecf699b6d5</application>
+        <file_path/>
+        <instance_id>1e3a0a7edbf23bc0b847ac44d49619ad</instance_id>
+        <instance_name>dev89029</instance_name>
+        <name>sp_container_cd454a952f421110285df3ecf699b61d</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_container"><sp_container action="INSERT_OR_UPDATE"><background_color/><background_image/><background_style>default</background_style><bootstrap_alt>false</bootstrap_alt><class_name/><container_class_name/><name>Admin After Login - Container 2</name><order>2</order><sp_page display_value="admin_after_login">73f4c6952f421110285df3ecf699b6fd</sp_page><subheader>false</subheader><sys_class_name>sp_container</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-09-19 08:54:27</sys_created_on><sys_id>cd454a952f421110285df3ecf699b61d</sys_id><sys_mod_count>2</sys_mod_count><sys_name>Admin After Login - Container 2</sys_name><sys_package display_value="MovieManagement" source="x_820100_moviema_1">f0c0f61a2f111110285df3ecf699b6d5</sys_package><sys_policy/><sys_scope display_value="MovieManagement">f0c0f61a2f111110285df3ecf699b6d5</sys_scope><sys_update_name>sp_container_cd454a952f421110285df3ecf699b61d</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-09-19 08:54:54</sys_updated_on><title/><width>container</width></sp_container></record_update>]]></payload>
+        <payload_hash>1142726274</payload_hash>
+        <record_name>Admin After Login - Container 2</record_name>
+        <reverted_from/>
+        <source>7cc0f61a2f111110285df3ecf699b6d6</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-19 08:54:55</sys_created_on>
+        <sys_id>a7550e992f421110285df3ecf699b685</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18354f523210000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-19 08:54:55</sys_updated_on>
+        <type>Container</type>
+        <update_guid>ef550e999a42111091306d04805f3a84</update_guid>
+        <update_guid_history>ef550e999a42111091306d04805f3a84:1142726274,0a458a996c42111088a47c0bb2942dc7:-382098717,05454a95004211100809ef139724cb1f:1142726274</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Admin After Login - Container 2">5c654a992f421110285df3ecf699b694</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-19 08:54:57</sys_created_on>
+        <sys_db_object display_value="" name="sp_container">sp_container</sys_db_object>
+        <sys_id>179b6f6148754290b8e001727552bfc4</sys_id>
+        <sys_metadata>cd454a952f421110285df3ecf699b61d</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Admin After Login - Container 2</sys_name>
+        <sys_package display_value="MovieManagement" source="x_820100_moviema_1">f0c0f61a2f111110285df3ecf699b6d5</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="MovieManagement">f0c0f61a2f111110285df3ecf699b6d5</sys_scope>
+        <sys_scope_delete display_value="">2c85fbd85ab84b64ab4a560f62daeca9</sys_scope_delete>
+        <sys_update_name>sp_container_cd454a952f421110285df3ecf699b61d</sys_update_name>
+        <sys_update_version display_value="sp_container_cd454a952f421110285df3ecf699b61d">a7550e992f421110285df3ecf699b685</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-19 08:54:57</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Payment" max_length="40" name="x_820100_moviema_1_payment" sizeclass="3" type="collection">
+        <element label="Credit/Debit Card Number" max_length="40" name="credit_debit_card_number" type="string"/>
+        <element label="Cvv" max_length="40" name="cvv" type="string"/>
+        <element label="Date of Expiry" max_length="40" name="date_of_expiry" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Password" max_length="40" name="password" type="password"/>
+        <element choice="1" label="Paytment Method" max_length="40" name="paytment_method" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Credit/Debit Card" sequence="0" value="1"/>
+                <element inactive_on_update="false" label="UPI" sequence="1" value="2"/>
+                <element inactive_on_update="false" label="Internet Banking" sequence="2" value="3"/>
+            </choice>
+        </element>
+        <element label="UPI ID" max_length="40" name="upi_id" type="string"/>
+        <element label="Username" max_length="40" name="username" type="string"/>
+        <element attributes="encode_utf8=false" label="User" mandatory="true" max_length="32" name="u_reference_1" reference="sys_user" type="reference"/>
+        <index name="index">
+            <element name="u_reference_1"/>
+        </index>
+    </element>
+</database>

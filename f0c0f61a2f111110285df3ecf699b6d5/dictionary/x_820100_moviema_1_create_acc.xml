@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Create Acc" max_length="40" name="x_820100_moviema_1_create_acc" sizeclass="6" type="collection">
+        <element label="Confirm Password" max_length="40" name="confirm_password" type="password"/>
+        <element label="Email Address" max_length="40" name="email_address" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Password" max_length="40" name="password" type="password"/>
+        <element attributes="edge_encryption_enabled=true" label="Name" max_length="40" name="u_string_1" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Last Name" max_length="40" name="u_string_2" type="string"/>
+    </element>
+</database>

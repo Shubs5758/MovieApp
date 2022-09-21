@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_container">
+    <sp_container action="INSERT_OR_UPDATE">
+        <background_color/>
+        <background_image/>
+        <background_style>default</background_style>
+        <bootstrap_alt>false</bootstrap_alt>
+        <class_name/>
+        <container_class_name/>
+        <name>Admin Login - Container 3</name>
+        <order>3</order>
+        <sp_page display_value="admin_login">c8a14fad2fa11110285df3ecf699b69a</sp_page>
+        <subheader>false</subheader>
+        <sys_class_name>sp_container</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-26 11:25:36</sys_created_on>
+        <sys_id>cdb1cfad2fa11110285df3ecf699b60f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Admin Login - Container 3</sys_name>
+        <sys_package display_value="MovieManagement" source="x_820100_moviema_1">f0c0f61a2f111110285df3ecf699b6d5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MovieManagement">f0c0f61a2f111110285df3ecf699b6d5</sys_scope>
+        <sys_update_name>sp_container_cdb1cfad2fa11110285df3ecf699b60f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-08-26 11:25:36</sys_updated_on>
+        <title/>
+        <width>container</width>
+    </sp_container>
+</record_update>

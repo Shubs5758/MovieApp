@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="TicketCancellation" max_length="40" name="x_820100_moviema_1_ticketcancellation" sizeclass="6" type="collection">
+        <element label="First Name" max_length="32" name="customer_name" type="string"/>
+        <element label="Date" max_length="40" name="date" type="glide_date"/>
+        <element label="Email Address" max_length="60" name="email_address" type="string"/>
+        <element display="true" label="Last Name" max_length="40" name="movie_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <index name="index">
+            <element name="customer_name"/>
+        </index>
+        <index name="index2">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>
