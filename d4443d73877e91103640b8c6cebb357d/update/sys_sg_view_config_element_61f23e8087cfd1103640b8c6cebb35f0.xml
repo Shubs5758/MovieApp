@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_config_element">
+    <sys_sg_view_config_element action="INSERT_OR_UPDATE">
+        <name>image_01_element</name>
+        <sys_class_name>sys_sg_view_config_element</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-04 08:04:29</sys_created_on>
+        <sys_id>61f23e8087cfd1103640b8c6cebb35f0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>image_01_element</sys_name>
+        <sys_package display_value="QR code" source="x_820100_qr_code">d4443d73877e91103640b8c6cebb357d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="QR code">d4443d73877e91103640b8c6cebb357d</sys_scope>
+        <sys_update_name>sys_sg_view_config_element_61f23e8087cfd1103640b8c6cebb35f0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-04 08:04:29</sys_updated_on>
+        <view_config display_value="asset QR lookup Card">39c0bacc878fd1103640b8c6cebb353e</view_config>
+        <view_template_slot display_value="image_01">caf849b041275010f877183fc9b8be4e</view_template_slot>
+    </sys_sg_view_config_element>
+</record_update>

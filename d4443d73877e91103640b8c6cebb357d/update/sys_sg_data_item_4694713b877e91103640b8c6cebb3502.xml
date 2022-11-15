@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_data_item">
+    <sys_sg_data_item action="INSERT_OR_UPDATE">
+        <condition_type>declarative</condition_type>
+        <description/>
+        <group_by/>
+        <instance_relative_url_qc/>
+        <name>QR code Incident</name>
+        <offline_query_condition/>
+        <offline_query_condition_script/>
+        <query_condition/>
+        <query_condition_script/>
+        <sys_class_name>sys_sg_data_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-03 08:53:31</sys_created_on>
+        <sys_id>4694713b877e91103640b8c6cebb3502</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>QR code Incident</sys_name>
+        <sys_package display_value="QR code" source="x_820100_qr_code">d4443d73877e91103640b8c6cebb357d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="QR code">d4443d73877e91103640b8c6cebb357d</sys_scope>
+        <sys_update_name>sys_sg_data_item_4694713b877e91103640b8c6cebb3502</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-03 08:53:31</sys_updated_on>
+        <table>incident</table>
+    </sys_sg_data_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=4694713b877e91103640b8c6cebb3502"/>
+</record_update>

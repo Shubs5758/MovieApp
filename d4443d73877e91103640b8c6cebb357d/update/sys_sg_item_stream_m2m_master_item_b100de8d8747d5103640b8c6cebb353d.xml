@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream_m2m_master_item">
+    <sys_sg_item_stream_m2m_master_item action="INSERT_OR_UPDATE">
+        <item_stream display_value="Hotel menu List Stream">7100de8d8747d5103640b8c6cebb3513</item_stream>
+        <master_item display_value="Hotel menu List Item Config">7900de8d8747d5103640b8c6cebb3534</master_item>
+        <sys_class_name>sys_sg_item_stream_m2m_master_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-07 08:05:47</sys_created_on>
+        <sys_id>b100de8d8747d5103640b8c6cebb353d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="QR code" source="x_820100_qr_code">d4443d73877e91103640b8c6cebb357d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="QR code">d4443d73877e91103640b8c6cebb357d</sys_scope>
+        <sys_update_name>sys_sg_item_stream_m2m_master_item_b100de8d8747d5103640b8c6cebb353d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-07 08:05:47</sys_updated_on>
+    </sys_sg_item_stream_m2m_master_item>
+</record_update>

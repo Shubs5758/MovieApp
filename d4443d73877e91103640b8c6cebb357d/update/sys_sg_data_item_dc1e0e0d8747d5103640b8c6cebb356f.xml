@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_data_item">
+    <sys_sg_data_item action="INSERT_OR_UPDATE">
+        <condition_type>declarative</condition_type>
+        <description/>
+        <group_by/>
+        <instance_relative_url_qc/>
+        <name>Hotel Menu</name>
+        <offline_query_condition/>
+        <offline_query_condition_script/>
+        <query_condition table="x_820100_qr_code_hotel_menu">u_glide_list_1LIKE{{Menu}}<item endquery="false" field="u_glide_list_1" goto="false" newquery="false" operator="LIKE" or="false" value="{{Menu}}"/>
+        </query_condition>
+        <query_condition_script/>
+        <sys_class_name>sys_sg_data_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-07 07:57:13</sys_created_on>
+        <sys_id>dc1e0e0d8747d5103640b8c6cebb356f</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Hotel Menu</sys_name>
+        <sys_package display_value="QR code" source="x_820100_qr_code">d4443d73877e91103640b8c6cebb357d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="QR code">d4443d73877e91103640b8c6cebb357d</sys_scope>
+        <sys_update_name>sys_sg_data_item_dc1e0e0d8747d5103640b8c6cebb356f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-07 08:16:02</sys_updated_on>
+        <table>x_820100_qr_code_hotel_menu</table>
+    </sys_sg_data_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=dc1e0e0d8747d5103640b8c6cebb356f"/>
+</record_update>

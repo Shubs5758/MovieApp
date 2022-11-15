@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <button display_value="Delete Swipe (Incident)">d694b53b877e91103640b8c6cebb35fc</button>
+        <color_theme/>
+        <description/>
+        <disable_offline>false</disable_offline>
+        <field_name/>
+        <icon/>
+        <label>Delete</label>
+        <location>leading_swipe</location>
+        <name>Delete (Incident)</name>
+        <order/>
+        <parent>da94b53b877e91103640b8c6cebb35f9</parent>
+        <parent_table>sys_sg_master_item</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-03 08:53:32</sys_created_on>
+        <sys_id>5a94b53b877e91103640b8c6cebb35fe</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Delete (Incident)</sys_name>
+        <sys_package display_value="QR code" source="x_820100_qr_code">d4443d73877e91103640b8c6cebb357d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="QR code">d4443d73877e91103640b8c6cebb357d</sys_scope>
+        <sys_update_name>sys_sg_button_instance_5a94b53b877e91103640b8c6cebb35fe</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-03 08:53:32</sys_updated_on>
+        <table/>
+    </sys_sg_button_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=5a94b53b877e91103640b8c6cebb35fe"/>
+</record_update>

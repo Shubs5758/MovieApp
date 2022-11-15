@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher">
+    <sys_sg_applet_launcher action="DELETE">
+        <active>true</active>
+        <available_offline>false</available_offline>
+        <header_button/>
+        <header_titles/>
+        <hide_empty_sections>true</hide_empty_sections>
+        <name>QR code</name>
+        <required_roles>admin</required_roles>
+        <search_config/>
+        <sys_class_name>sys_sg_applet_launcher</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-03 08:53:30</sys_created_on>
+        <sys_id>8e94313b877e91103640b8c6cebb35ff</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>QR code</sys_name>
+        <sys_package display_value="QR code" source="x_820100_qr_code">d4443d73877e91103640b8c6cebb357d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="QR code">d4443d73877e91103640b8c6cebb357d</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_8e94313b877e91103640b8c6cebb35ff</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-03 08:53:30</sys_updated_on>
+        <title>QR code</title>
+    </sys_sg_applet_launcher>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="QR code">d4443d73877e91103640b8c6cebb357d</application>
+        <file_path/>
+        <instance_id>22415431db5b1b80536ad5b0cf9619c3</instance_id>
+        <instance_name>dev64898</instance_name>
+        <name>sys_sg_applet_launcher_8e94313b877e91103640b8c6cebb35ff</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher"><sys_sg_applet_launcher action="INSERT_OR_UPDATE"><active>true</active><available_offline>false</available_offline><header_button/><header_titles/><hide_empty_sections>true</hide_empty_sections><name>QR code</name><required_roles>admin</required_roles><search_config/><sys_class_name>sys_sg_applet_launcher</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-11-03 08:53:30</sys_created_on><sys_id>8e94313b877e91103640b8c6cebb35ff</sys_id><sys_mod_count>0</sys_mod_count><sys_name>QR code</sys_name><sys_package display_value="QR code" source="x_820100_qr_code">d4443d73877e91103640b8c6cebb357d</sys_package><sys_policy/><sys_scope display_value="QR code">d4443d73877e91103640b8c6cebb357d</sys_scope><sys_update_name>sys_sg_applet_launcher_8e94313b877e91103640b8c6cebb35ff</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-11-03 08:53:30</sys_updated_on><title>QR code</title></sys_sg_applet_launcher></record_update>]]></payload>
+        <payload_hash>-1179870968</payload_hash>
+        <record_name>QR code</record_name>
+        <reverted_from/>
+        <source>58443d73877e91103640b8c6cebb357f</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-03 08:53:32</sys_created_on>
+        <sys_id>2a94f53b877e91103640b8c6cebb351d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1843cb20d140000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-03 08:53:32</sys_updated_on>
+        <type>Launcher screen</type>
+        <update_guid>a294f53ba77e9110157e30afe4b0881d</update_guid>
+        <update_guid_history>a294f53ba77e9110157e30afe4b0881d:-1179870968</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-04 11:47:47</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_applet_launcher">sys_sg_applet_launcher</sys_db_object>
+        <sys_id>5f7ed33b82994e98af0e587894bed190</sys_id>
+        <sys_metadata>8e94313b877e91103640b8c6cebb35ff</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>QR code</sys_name>
+        <sys_package display_value="QR code" source="x_820100_qr_code">d4443d73877e91103640b8c6cebb357d</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="QR code">d4443d73877e91103640b8c6cebb357d</sys_scope>
+        <sys_scope_delete display_value="">4c113c43b03b4cbbb7d95236cd1c4c39</sys_scope_delete>
+        <sys_update_name>sys_sg_applet_launcher_8e94313b877e91103640b8c6cebb35ff</sys_update_name>
+        <sys_update_version display_value="sys_sg_applet_launcher_8e94313b877e91103640b8c6cebb35ff">2a94f53b877e91103640b8c6cebb351d</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-04 11:47:47</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Hotel menu" max_length="40" name="x_820100_qr_code_hotel_menu" sizeclass="0" type="collection">
+        <element label="Masala Dosa" max_length="40" name="masala_dosa" type="string"/>
+        <element label="Medu Vada" max_length="40" name="medu_vada" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="MENU" max_length="40" name="menu" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Masala Dosa" sequence="0" value="1"/>
+                <element inactive_on_update="false" label="Pav Bhaji" sequence="1" value="2"/>
+                <element inactive_on_update="false" label="Idli Sambhar" sequence="2" value="3"/>
+                <element inactive_on_update="false" label="Medu Vada" sequence="3" value="4"/>
+                <element inactive_on_update="false" label="Misal Pav" sequence="4" value="5"/>
+            </choice>
+        </element>
+        <element label="Pav Bhaji" max_length="40" name="pav_bhaji" type="string"/>
+        <element label="Upma" max_length="40" name="upma" type="string"/>
+        <element attributes="no_sort=true,slushbucket_ref_no_expand=true" label="Menu" max_length="1024" name="u_glide_list_1" reference="x_820100_qr_code_hotel_menu" type="glide_list"/>
+    </element>
+</database>
